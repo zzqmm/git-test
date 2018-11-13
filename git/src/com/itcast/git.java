@@ -15,6 +15,8 @@ public class git {
 
     }
     public void eat(){
+
         System.out.println("吃");
+        System.out.println("hehehe");
     }
 }
