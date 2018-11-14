@@ -20,4 +20,8 @@ public class git {
         System.out.println("睡");
         System.out.println("hello");
     }
+    public void sleeped(){
+        System.out.println("睡");
+        System.out.println("hello");
+    }
 }
